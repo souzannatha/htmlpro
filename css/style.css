@@ -1,0 +1,16 @@
+@import url(./header.css);
+@import url(./section.css);
+
+:root {
+  --bg-body: #131416;
+  --bg-blue: #0772eb;
+  --color-font: #ffffff;
+  --color-card: #1e212c;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Inter", sans-serif;
+  background-color: var(--bg-body);
+}
